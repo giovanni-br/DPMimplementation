@@ -1,0 +1,21 @@
+# Ignore virtual environments
+venv/
+dpmsolver-env/
+
+# Ignore generated data
+generated_images/
+real_images/
+data/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore build artifacts
+build/
+dist/
+*.egg-info/
+
+# Ignore pytest cache
+.pytest_cache/
